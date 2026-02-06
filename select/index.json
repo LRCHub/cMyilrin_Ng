@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Behind the Mask",
+  "base_artist": "Kamijo",
+  "createdAt": "2026-02-06T14:20:16.250385Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Behind The Mask",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/01_Behind_The_Mask_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Behind The Mask",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/02_Behind_The_Mask_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Behind The Mask - Mike's Mix (Demo)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/03_Behind_The_Mask_-_Mike's_Mix_(Demo)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What's Behind the Mask",
+      "artist": "The Cramps",
+      "has_synced": true,
+      "path": "select/04_What's_Behind_the_Mask_The_Cramps.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Behind the Mask",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_Behind_the_Mask_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Behind the Mask Obscure",
+      "artist": "Limbonic Art",
+      "has_synced": false,
+      "path": "select/06_Behind_the_Mask_Obscure_Limbonic_Art.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Behind the Mask",
+      "artist": "Semblant",
+      "has_synced": true,
+      "path": "select/07_Behind_the_Mask_Semblant.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Face Behind the Mask",
+      "artist": "Rage",
+      "has_synced": false,
+      "path": "select/08_Face_Behind_the_Mask_Rage.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Girl Behind the Mask",
+      "artist": "Screaming Trees",
+      "has_synced": false,
+      "path": "select/09_Girl_Behind_the_Mask_Screaming_Trees.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "He's Back (The Man Behind The Mask)",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/10_He's_Back_(The_Man_Behind_The_Mask)_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "He's Back (The Man Behind The Mask)",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/11_He's_Back_(The_Man_Behind_The_Mask)_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Behind the Mask",
+      "artist": "Eric Clapton",
+      "has_synced": false,
+      "path": "select/12_Behind_the_Mask_Eric_Clapton.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Behind the Mask",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/13_Behind_the_Mask_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Behind the Mask",
+      "artist": "Goldfinger",
+      "has_synced": true,
+      "path": "select/14_Behind_the_Mask_Goldfinger.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Behind the Mask",
+      "artist": "Greg Phillinganes",
+      "has_synced": false,
+      "path": "select/15_Behind_the_Mask_Greg_Phillinganes.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Look Behind the Mask",
+      "artist": "The Raven Age",
+      "has_synced": true,
+      "path": "select/16_A_Look_Behind_the_Mask_The_Raven_Age.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Behind The Mask",
+      "artist": "Escape the Fate",
+      "has_synced": true,
+      "path": "select/17_Behind_The_Mask_Escape_the_Fate.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Behind The Mask",
+      "artist": "KAMIJO",
+      "has_synced": false,
+      "path": "select/pl_01_Behind_The_Mask_KAMIJO.txt"
+    }
+  ]
+}
